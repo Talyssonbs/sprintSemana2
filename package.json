@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "sprint-semana-2",
+  "version": "1.0.0",
+  "main": "sprintSemana2.js",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "dev": "nodemon ./src/sprintSemana2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
